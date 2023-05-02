@@ -1,16 +1,39 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
 # Mid-Bootcamp-Project 2023
 
-In this project i created a dataset in excel with some gathered data from world bank.
+- In this project i did some comparing analysis from 2000 to 2022 of countries like:
 
-### Process #1 - Data Visualization, Selection & Modelling (case study).
+- Portugal
+- Spain
+- Ireland
+- Greece
 
-- Reading dataframe
-- Data visualization
+- With some data figures:
+
+- Debt-to-GDP
+- Inflation Rate
+- Unemployment Rate
+- Interest Rate
+
+- Hint: "I could be doing the PIGS Countries (Portugal, Italy, Greece, Spain),
+         but i choose Ireland due to his amazing performance through the years
+         in terms of debt-to-gdp and other reductions compare to the others!"
+
+
+### Process #1 - Data Visualization, Selection & Modelling in Python.
+
+- Gathering some data from "World Bank open data" to a excel file
+- Format the excel for a .csv file to start working on the dataset
+- Data Cleaning and preprocessing
 - Attribute Selection
-- Analysing & Dealing with Data
-- Prediction Modelling
+- Save Clean Data into a .csv file for Tableau Visualizations
+- Prediction Modelling using some of the methods we've learn so far
 
-### Process #2 - Module Predictions
+### Process #2 - Tableau Visualizations.
 
-- Presenting Some Module Predictions Graphs.
+- Export the "Clean Data" .csv file into tableau to start the visualizations
+- Creating a Several Dashboard's to present and explain some Comparing Analysis
+- After further Visualization, setup how do you gonna present your Dashboards
+
+
